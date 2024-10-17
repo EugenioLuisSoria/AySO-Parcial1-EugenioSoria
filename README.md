@@ -1,2 +1,7 @@
 # AySO-Parcial1-EugenioSoria
-Repositorio para entregar el 1er parcial de AySO, div 317-2
+Nombre: Eugenio Luis
+Apellido: Soria
+Legajo: 117935
+División: 317-2
+
+
